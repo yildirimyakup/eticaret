@@ -1,0 +1,9 @@
+#Node.js
+node_modules/
+
+# proje dosyalarını temizle
+backend_guvenlik/
+example/
+
+# Ortam Değişkenleri
+.env
